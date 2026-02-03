@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">滚木Generator</string>
+    <string name="input_label">Input Text</string>
+    <string name="input_placeholder">Enter text to hide or extract...</string>
+    <string name="output_hidden">Hidden Text</string>
+    <string name="output_revealed">Extracted Text</string>
+    <string name="output_placeholder">Result will be displayed here...</string>
+    <string name="characters">characters</string>
+    <string name="button_hide">Hide Text</string>
+    <string name="button_reveal">Extract Text</string>
+    <string name="button_copy">Copy to Clipboard</string>
+    <string name="info_title">Instructions</string>
+    <string name="info_content">1. Hide Text → Generate zero-width hidden text\n2. Extract Text → Reveal original content from hidden text\n3. Copy → Copy the result to clipboard\n\nNote: Hidden text may appear blank, but copy function works normally</string>
+    <string name="success_hidden">Text hidden successfully</string>
+    <string name="success_revealed">Text extracted successfully</string>
+    <string name="success_copied">Copied to clipboard</string>
+    <string name="error_empty_input">Please enter text</string>
+    <string name="error_hide_failed">Failed to hide text</string>
+    <string name="error_reveal_failed">Failed to extract text</string>
+</resources>

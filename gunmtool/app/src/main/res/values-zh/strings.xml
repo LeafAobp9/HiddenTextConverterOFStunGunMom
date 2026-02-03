@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">滚木生成器</string>
+    <string name="input_label">输入文本</string>
+    <string name="input_placeholder">输入要隐藏或提取的文本...</string>
+    <string name="output_hidden">隐藏文本</string>
+    <string name="output_revealed">提取文本</string>
+    <string name="output_placeholder">结果将显示在这里...</string>
+    <string name="characters">字符</string>
+    <string name="button_hide">隐藏文本</string>
+    <string name="button_reveal">提取文本</string>
+    <string name="button_copy">复制到剪贴板</string>
+    <string name="info_title">功能说明</string>
+    <string name="info_content">1. 隐藏文本 → 生成零宽字符隐藏文本\n2. 提取文本 → 从隐藏文本还原原始内容\n3. 复制 → 将结果复制到剪贴板\n\n注意：隐藏文本可能显示为空白，但复制功能正常</string>
+    <string name="success_hidden">文本隐藏成功</string>
+    <string name="success_revealed">文本提取成功</string>
+    <string name="success_copied">已复制到剪贴板</string>
+    <string name="error_empty_input">请输入文本</string>
+    <string name="error_hide_failed">隐藏文本失败</string>
+    <string name="error_reveal_failed">提取文本失败</string>
+</resources>
